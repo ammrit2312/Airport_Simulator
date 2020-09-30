@@ -32,6 +32,6 @@
  C Assignment
  
  */
-int main(){[][]
+int main(){
     airport();
 }
